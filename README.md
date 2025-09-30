@@ -1,7 +1,6 @@
-# Track A — Elastic SIEM + Machine Learning (Tesis)
+# Aplicación de técnicas de Machine Learning para la detección de incidentes de ciberseguridad en un SIEM basado en Elastic
 
-Este repositorio contiene la estructura mínima reproducible para la parte Track A de la tesis. 
-Integra los cuadernos Jupyter ya desarrollados con un pipeline automatizado y documentación del dataset.
+Proyecto de investigación (Maestría en IA – UNI) para desarrollar un modelo de machine learning que, a partir de los logs recolectados por los agentes desplegados en un SIEM de Elastic, permita detectar y clasificar incidentes de ciberseguridad, mejorando la capacidad de identificación temprana de amenazas y reduciendo los falsos positivos.
 
 ---
 
