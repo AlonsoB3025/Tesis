@@ -1,0 +1,10 @@
+{
+  "roc_auc": 0.9779162590946223,
+  "f1": 0.5264076822348319,
+  "accuracy": 0.9582089552238806,
+  "n_train": 415399,
+  "n_test": 103850,
+  "target": "action",
+  "positive_label": "credential-manager-credentials-were-read",
+  "use_temporal": true
+}

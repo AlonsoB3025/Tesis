@@ -7,23 +7,31 @@ Proyecto de investigación (Maestría en IA – UNI) para desarrollar un modelo 
 # Estructura del repositorio
 
 ```text
-data/
-  ├─ raw/         # Logs originales
-  └─ processed/   # Datos procesados y features
-notebooks/
-  ├─ Preprocessing2.ipynb
-  ├─ Modelo2.ipynb
-  └─ prediccion_ataques2.ipynb
-src/              # Código Python (scripts ejecutables)
-  ├─ preprocess.py
-  ├─ train.py
-  ├─ predict.py
-  └─ run_pipeline.py
-docs/
-  ├─ DATASET.md          # Documentación del dataset
-logs/
-requirements.txt
-.env.example
+├─ README.md
+├─ requirements.txt              
+├─ Makefile
+├─ data/
+│  ├─ raw/                       
+│  └─ processed/                 
+├─ notebooks/
+│  └─ 01_EDA.ipynb              
+├─ reports/
+│  ├─ figures/                   
+│  └─ metrics/                   
+├─ logs/                         
+└─ src/
+   ├─ __init__.py
+   ├─ utils.py
+   ├─ data/
+   │  ├─ __init__.py
+   │  └─ ingest.py               
+   ├─ features/
+   │  ├─ __init__.py
+   │  └─ preprocess.py           
+   ├─ models/
+   │  ├─ __init__.py
+   │  └─ baseline.py         
+   └─ run_pipeline.py            
 ```
 
 ---

@@ -4,10 +4,10 @@
 
 
 # Core scientific stack
-numpy>=1.24              # Operaciones numéricas y base de cálculo matricial
-pandas>=2.0              # Manipulación de datos tabulares (DataFrames)
-scikit-learn>=1.3        # Modelos ML supervisados/no supervisados, métricas, pipelines
-scipy>=1.10              # Funciones estadísticas, álgebra lineal y optimización
+numpy>=1.26              # Operaciones numéricas y base de cálculo matricial
+pandas>=2.2              # Manipulación de datos tabulares (DataFrames)
+scikit-learn>=1.4        # Modelos ML supervisados/no supervisados, métricas, pipelines
+scipy>=1.13              # Funciones estadísticas, álgebra lineal y optimización
 imbalanced-learn>=0.12   # Técnicas para tratar desbalance de clases (SMOTE, undersampling)
 
 
@@ -19,6 +19,7 @@ joblib>=1.3              # Serialización de modelos y transformadores
 
 # Visualization & Reporting
 matplotlib>=3.8          # Visualizaciones: curvas ROC, matrices de confusión, histogramas
+seaborn>=0.13            # Visualización estadística avanzada (EDA)
 shap>=0.44               # Explicabilidad de modelos ML (SHAP values)
 
 

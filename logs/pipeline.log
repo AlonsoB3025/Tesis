@@ -1,0 +1,1031 @@
+2025-09-24 23:05:23,835 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-24 23:05:23,835 | WARNING | pipeline | No encontrado: notebooks/Preprocessing2.ipynb (saltando)
+2025-09-24 23:05:23,835 | WARNING | pipeline | No encontrado: notebooks/Modelo2.ipynb (saltando)
+2025-09-24 23:05:23,835 | WARNING | pipeline | No encontrado: notebooks/prediccion_ataques2.ipynb (saltando)
+2025-09-24 23:05:23,835 | INFO | pipeline | === PIPELINE (notebooks) FINALIZADO ===
+2025-09-24 23:06:00,947 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-24 23:06:00,947 | WARNING | pipeline | No encontrado: notebooks/Preprocessing2.ipynb (saltando)
+2025-09-24 23:06:00,947 | WARNING | pipeline | No encontrado: notebooks/Modelo2.ipynb (saltando)
+2025-09-24 23:06:00,947 | WARNING | pipeline | No encontrado: notebooks/prediccion_ataques2.ipynb (saltando)
+2025-09-24 23:06:00,947 | INFO | pipeline | === PIPELINE (notebooks) FINALIZADO ===
+2025-09-24 23:08:16,042 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-24 23:08:16,042 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-24 23:08:16,042 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-24 23:08:16,042 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-24 23:08:16,072 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:08:16,072 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:08:16,072 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:08:16,135 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:08:17,228 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-24 23:20:48,868 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-24 23:20:48,868 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-24 23:20:48,869 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-24 23:20:48,869 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-24 23:20:48,891 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:20:48,891 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:20:48,891 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:20:48,941 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:20:49,926 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-24 23:20:59,833 | WARNING | pipeline | No encontrado: notebooks/Modelo2.ipynb (saltando)
+2025-09-24 23:20:59,834 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-24 23:20:59,834 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-24 23:20:59,834 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-24 23:20:59,835 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:20:59,835 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:20:59,835 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:20:59,836 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:21:00,673 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-24 23:29:12,902 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-24 23:29:12,902 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-24 23:29:12,902 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-24 23:29:12,902 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-24 23:29:12,928 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:29:12,928 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:29:12,928 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:29:12,975 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:29:13,842 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-24 23:29:23,502 | WARNING | pipeline | No encontrado: notebooks/Modelo2.ipynb (saltando)
+2025-09-24 23:29:23,502 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-24 23:29:23,502 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-24 23:29:23,502 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-24 23:29:23,504 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:29:23,504 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:29:23,504 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:29:23,506 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:29:24,330 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-24 23:36:50,340 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-24 23:36:50,340 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-24 23:36:50,340 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-24 23:36:50,340 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-24 23:36:50,368 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:36:50,368 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:36:50,368 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:36:50,418 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:36:51,418 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-24 23:37:01,432 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-24 23:37:01,433 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-24 23:37:01,433 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-24 23:37:01,435 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-24 23:37:01,435 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-24 23:37:01,435 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-24 23:37:01,436 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-24 23:37:01,439 | WARNING | traitlets | Kernelspec name tesis_kernel cannot be found!
+2025-09-24 23:37:01,440 | ERROR | traitlets | No such kernel named tesis_kernel
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.13/site-packages/jupyter_client/manager.py", line 87, in wrapper
+    out = await method(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/jupyter_client/manager.py", line 435, in _async_start_kernel
+    kernel_cmd, kw = await self._async_pre_start_kernel(**kw)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/jupyter_client/manager.py", line 397, in _async_pre_start_kernel
+    self.kernel_spec,
+    ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/jupyter_client/manager.py", line 195, in kernel_spec
+    self._kernel_spec = self.kernel_spec_manager.get_kernel_spec(self.kernel_name)
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/jupyter_client/kernelspec.py", line 285, in get_kernel_spec
+    raise NoSuchKernel(kernel_name)
+jupyter_client.kernelspec.NoSuchKernel: No such kernel named tesis_kernel
+2025-09-25 09:12:50,873 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 09:12:50,873 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 09:12:50,873 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 09:12:50,873 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 09:12:50,895 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:12:50,895 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:12:50,895 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:12:50,941 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:12:51,841 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 09:13:01,719 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-25 09:13:01,720 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-25 09:13:01,720 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-25 09:13:01,721 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:13:01,721 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:13:01,721 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:13:01,723 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:13:02,301 | INFO | papermill | Executing notebook with kernel: tesis_kernel
+2025-09-25 09:21:47,195 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 09:21:47,196 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 09:21:47,196 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 09:21:47,196 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 09:21:47,226 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:21:47,226 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:21:47,226 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:21:47,275 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:21:48,165 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 09:21:57,813 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-25 09:21:57,814 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-25 09:21:57,814 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-25 09:21:57,816 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:21:57,816 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:21:57,816 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:21:57,817 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:21:58,639 | INFO | papermill | Executing notebook with kernel: tesis_kernel
+2025-09-25 09:22:42,934 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-25 09:22:42,934 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-25 09:22:42,934 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-25 09:22:42,935 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:22:42,935 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:22:42,935 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:22:42,936 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:22:43,850 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 09:51:38,006 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 09:51:38,006 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 09:51:38,006 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 09:51:38,006 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 09:51:38,034 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:51:38,034 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:51:38,034 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:51:38,088 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:51:39,071 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 09:51:48,908 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-25 09:51:48,908 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-25 09:51:48,908 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-25 09:51:48,910 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:51:48,910 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:51:48,910 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:51:48,912 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:51:49,733 | INFO | papermill | Executing notebook with kernel: tesis_kernel
+2025-09-25 09:52:33,104 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-25 09:52:33,104 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-25 09:52:33,104 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-25 09:52:33,105 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 09:52:33,105 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 09:52:33,105 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 09:52:33,106 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 09:52:34,020 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:29:19,526 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 10:29:19,527 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 10:29:19,527 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 10:29:19,527 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 10:29:19,554 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:29:19,554 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:29:19,554 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:29:19,606 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:29:20,603 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:29:30,503 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-25 10:29:30,504 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-25 10:29:30,504 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-25 10:29:30,505 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:29:30,505 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:29:30,505 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:29:30,507 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:29:31,336 | INFO | papermill | Executing notebook with kernel: tesis_kernel
+2025-09-25 10:30:15,063 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-25 10:30:15,063 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-25 10:30:15,063 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-25 10:30:15,064 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:30:15,064 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:30:15,064 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:30:15,066 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:30:15,980 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:34:58,677 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 10:34:58,677 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 10:34:58,677 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 10:34:58,677 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 10:34:58,698 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:34:58,698 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:34:58,699 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:34:58,764 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:34:59,616 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:35:09,244 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-25 10:35:09,244 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-25 10:35:09,244 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-25 10:35:09,245 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:35:09,246 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:35:09,246 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:35:09,247 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:35:09,827 | INFO | papermill | Executing notebook with kernel: tesis_kernel
+2025-09-25 10:35:53,492 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-25 10:35:53,492 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-25 10:35:53,492 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-25 10:35:53,493 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:35:53,493 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:35:53,493 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:35:53,494 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:35:54,374 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:36:08,245 | INFO | pipeline | === PIPELINE (notebooks) FINALIZADO ===
+2025-09-25 10:51:17,438 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 10:51:17,438 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 10:51:17,439 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 10:51:17,439 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 10:51:17,475 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:51:17,475 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:51:17,476 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:51:17,526 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:51:18,529 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:51:28,566 | INFO | pipeline | Ejecutando: notebooks/Modelado2.ipynb
+2025-09-25 10:51:28,567 | INFO | papermill | Input Notebook:  notebooks/Modelado2.ipynb
+2025-09-25 10:51:28,567 | INFO | papermill | Output Notebook: notebooks/Modelado2.executed.ipynb
+2025-09-25 10:51:28,568 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:51:28,568 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:51:28,568 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:51:28,570 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:51:29,388 | INFO | papermill | Executing notebook with kernel: tesis_kernel
+2025-09-25 10:52:13,727 | INFO | pipeline | Ejecutando: notebooks/prediccion_ataques2.ipynb
+2025-09-25 10:52:13,727 | INFO | papermill | Input Notebook:  notebooks/prediccion_ataques2.ipynb
+2025-09-25 10:52:13,727 | INFO | papermill | Output Notebook: notebooks/prediccion_ataques2.executed.ipynb
+2025-09-25 10:52:13,729 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 10:52:13,729 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 10:52:13,729 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 10:52:13,730 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 10:52:14,648 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-25 10:52:28,235 | INFO | pipeline | === PIPELINE (notebooks) FINALIZADO ===
+2025-09-25 21:15:51,899 | INFO | pipeline | === PIPELINE (notebooks) INICIADO ===
+2025-09-25 21:15:51,900 | INFO | pipeline | Ejecutando: notebooks/Preprocessing2.ipynb
+2025-09-25 21:15:51,901 | INFO | papermill | Input Notebook:  notebooks/Preprocessing2.ipynb
+2025-09-25 21:15:51,901 | INFO | papermill | Output Notebook: notebooks/Preprocessing2.executed.ipynb
+2025-09-25 21:15:51,922 | WARNING | papermill | Passed unknown parameter: RAW_DIR
+2025-09-25 21:15:51,922 | WARNING | papermill | Passed unknown parameter: PROCESSED_DIR
+2025-09-25 21:15:51,922 | WARNING | papermill | Passed unknown parameter: RANDOM_STATE
+2025-09-25 21:15:51,975 | WARNING | papermill | Input notebook does not contain a cell with tag 'parameters'
+2025-09-25 21:15:52,884 | INFO | papermill | Executing notebook with kernel: python3
+2025-09-30 14:15:57 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 14:16:08 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_141557.executed.ipynb
+2025-09-30 14:16:53 | INFO | pipeline | Ejecutado: notebooks/Modelado2.ipynb → notebooks/_executed/Modelado2.20250930_141608.executed.ipynb
+2025-09-30 14:17:08 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_141653.executed.ipynb
+2025-09-30 14:17:08 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: No kernel name found in notebook and no override provided.
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 38, in run_notebook
+    pm.execute_notebook(str(infile), str(outfile), parameters=PARAMS, report_mode=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 98, in execute_notebook
+    nb = parameterize_notebook(
+        nb,
+    ...<4 lines>...
+        engine_name=engine_name,
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/parameterize.py", line 86, in parameterize_notebook
+    kernel_name = papermill_engines.nb_kernel_name(engine_name, nb, kernel_name)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/engines.py", line 52, in nb_kernel_name
+    return self.get_engine(engine_name).nb_kernel_name(nb, name)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/engines.py", line 385, in nb_kernel_name
+    return nb_kernel_name(nb, name)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/utils.py", line 52, in nb_kernel_name
+    raise ValueError("No kernel name found in notebook and no override provided.")
+ValueError: No kernel name found in notebook and no override provided.
+2025-09-30 14:17:30 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(101164, 16))
+2025-09-30 14:17:33 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 14:17:44 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_141733.executed.ipynb
+2025-09-30 14:18:28 | INFO | pipeline | Ejecutado: notebooks/Modelado2.ipynb → notebooks/_executed/Modelado2.20250930_141744.executed.ipynb
+2025-09-30 14:18:43 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_141828.executed.ipynb
+2025-09-30 14:18:43 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: No kernel name found in notebook and no override provided.
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 38, in run_notebook
+    pm.execute_notebook(str(infile), str(outfile), parameters=PARAMS, report_mode=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 98, in execute_notebook
+    nb = parameterize_notebook(
+        nb,
+    ...<4 lines>...
+        engine_name=engine_name,
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/parameterize.py", line 86, in parameterize_notebook
+    kernel_name = papermill_engines.nb_kernel_name(engine_name, nb, kernel_name)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/engines.py", line 52, in nb_kernel_name
+    return self.get_engine(engine_name).nb_kernel_name(nb, name)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/engines.py", line 385, in nb_kernel_name
+    return nb_kernel_name(nb, name)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/utils.py", line 52, in nb_kernel_name
+    raise ValueError("No kernel name found in notebook and no override provided.")
+ValueError: No kernel name found in notebook and no override provided.
+2025-09-30 14:19:05 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(101164, 16))
+2025-09-30 15:10:23 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 15:10:34 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_151023.executed.ipynb
+2025-09-30 15:11:19 | INFO | pipeline | Ejecutado: notebooks/Modelado2.ipynb → notebooks/_executed/Modelado2.20250930_151034.executed.ipynb
+2025-09-30 15:11:34 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_151119.executed.ipynb
+2025-09-30 15:11:40 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: 
+---------------------------------------------------------------------------
+Exception encountered at "In [5]":
+---------------------------------------------------------------------------
+KeyError                                  Traceback (most recent call last)
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:3805, in Index.get_loc(self, key)
+   3804 try:
+-> 3805     return self._engine.get_loc(casted_key)
+   3806 except KeyError as err:
+
+File index.pyx:167, in pandas._libs.index.IndexEngine.get_loc()
+
+File index.pyx:196, in pandas._libs.index.IndexEngine.get_loc()
+
+File pandas/_libs/hashtable_class_helper.pxi:7081, in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+File pandas/_libs/hashtable_class_helper.pxi:7089, in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+KeyError: 'label'
+
+The above exception was the direct cause of the following exception:
+
+KeyError                                  Traceback (most recent call last)
+Cell In[5], line 1
+----> 1 if df[TARGET].dropna().isin([0,1]).all():
+      2     corr = df[num_cols+[TARGET]].corr(numeric_only=True)[TARGET].sort_values(ascending=False)
+      3     corr
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/core/frame.py:4102, in DataFrame.__getitem__(self, key)
+   4100 if self.columns.nlevels > 1:
+   4101     return self._getitem_multilevel(key)
+-> 4102 indexer = self.columns.get_loc(key)
+   4103 if is_integer(indexer):
+   4104     indexer = [indexer]
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:3812, in Index.get_loc(self, key)
+   3807     if isinstance(casted_key, slice) or (
+   3808         isinstance(casted_key, abc.Iterable)
+   3809         and any(isinstance(x, slice) for x in casted_key)
+   3810     ):
+   3811         raise InvalidIndexError(key)
+-> 3812     raise KeyError(key) from err
+   3813 except TypeError:
+   3814     # If we have a listlike key, _check_indexing_error will raise
+   3815     #  InvalidIndexError. Otherwise we fall through and re-raise
+   3816     #  the TypeError.
+   3817     self._check_indexing_error(key)
+
+KeyError: 'label'
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 131, in execute_notebook
+    raise_for_execution_errors(nb, output_path)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 251, in raise_for_execution_errors
+    raise error
+papermill.exceptions.PapermillExecutionError: 
+---------------------------------------------------------------------------
+Exception encountered at "In [5]":
+---------------------------------------------------------------------------
+KeyError                                  Traceback (most recent call last)
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:3805, in Index.get_loc(self, key)
+   3804 try:
+-> 3805     return self._engine.get_loc(casted_key)
+   3806 except KeyError as err:
+
+File index.pyx:167, in pandas._libs.index.IndexEngine.get_loc()
+
+File index.pyx:196, in pandas._libs.index.IndexEngine.get_loc()
+
+File pandas/_libs/hashtable_class_helper.pxi:7081, in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+File pandas/_libs/hashtable_class_helper.pxi:7089, in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+KeyError: 'label'
+
+The above exception was the direct cause of the following exception:
+
+KeyError                                  Traceback (most recent call last)
+Cell In[5], line 1
+----> 1 if df[TARGET].dropna().isin([0,1]).all():
+      2     corr = df[num_cols+[TARGET]].corr(numeric_only=True)[TARGET].sort_values(ascending=False)
+      3     corr
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/core/frame.py:4102, in DataFrame.__getitem__(self, key)
+   4100 if self.columns.nlevels > 1:
+   4101     return self._getitem_multilevel(key)
+-> 4102 indexer = self.columns.get_loc(key)
+   4103 if is_integer(indexer):
+   4104     indexer = [indexer]
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:3812, in Index.get_loc(self, key)
+   3807     if isinstance(casted_key, slice) or (
+   3808         isinstance(casted_key, abc.Iterable)
+   3809         and any(isinstance(x, slice) for x in casted_key)
+   3810     ):
+   3811         raise InvalidIndexError(key)
+-> 3812     raise KeyError(key) from err
+   3813 except TypeError:
+   3814     # If we have a listlike key, _check_indexing_error will raise
+   3815     #  InvalidIndexError. Otherwise we fall through and re-raise
+   3816     #  the TypeError.
+   3817     self._check_indexing_error(key)
+
+KeyError: 'label'
+
+2025-09-30 15:12:03 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(101164, 16))
+2025-09-30 15:12:03 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(101155), 1: np.int64(9)}
+2025-09-30 15:12:03 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 15:12:03 | INFO | baseline | Random split -> train=80931, test=20233
+2025-09-30 15:26:46 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 15:26:57 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_152646.executed.ipynb
+2025-09-30 15:27:42 | INFO | pipeline | Ejecutado: notebooks/Modelado2.ipynb → notebooks/_executed/Modelado2.20250930_152657.executed.ipynb
+2025-09-30 15:27:57 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_152742.executed.ipynb
+2025-09-30 15:28:22 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(717735, 13))
+2025-09-30 15:28:23 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(703921), 1: np.int64(13814)}
+2025-09-30 15:28:41 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 15:28:41 | INFO | baseline | Random split -> train=574188, test=143547
+2025-09-30 15:28:45 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9999757754897377, 'f1': 0.9971129556116926, 'accuracy': 0.9998885382487965, 'n_train': 574188, 'n_test': 143547, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 15:28:47 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9999757754897377, 'f1': 0.9971129556116926, 'accuracy': 0.9998885382487965, 'n_train': 574188, 'n_test': 143547, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 15:28:47 | INFO | pipeline | === PIPELINE FINALIZADO ===
+2025-09-30 15:34:03 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 15:34:13 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_153403.executed.ipynb
+2025-09-30 15:34:13 | ERROR | pipeline | Fallo ejecutando notebooks/Modelado2.ipynb: The notebook is invalid and is missing an expected key: metadata
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 89, in execute_notebook
+    nb = load_notebook_node(input_path)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/iorw.py", line 499, in load_notebook_node
+    nb = nbformat.reads(papermill_io.read(notebook_path), as_version=4)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/__init__.py", line 92, in reads
+    nb = reader.reads(s, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/reader.py", line 82, in reads
+    raise ValidationError(msg) from None
+jsonschema.exceptions.ValidationError: The notebook is invalid and is missing an expected key: metadata
+2025-09-30 15:34:27 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_153413.executed.ipynb
+2025-09-30 15:34:52 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(717735, 13))
+2025-09-30 15:34:53 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(703921), 1: np.int64(13814)}
+2025-09-30 15:35:11 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 15:35:11 | INFO | baseline | Random split -> train=574188, test=143547
+2025-09-30 15:35:15 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9999757754897377, 'f1': 0.9971129556116926, 'accuracy': 0.9998885382487965, 'n_train': 574188, 'n_test': 143547, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 15:35:16 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9999757754897377, 'f1': 0.9971129556116926, 'accuracy': 0.9998885382487965, 'n_train': 574188, 'n_test': 143547, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 15:35:16 | INFO | pipeline | === PIPELINE FINALIZADO ===
+2025-09-30 15:51:05 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 15:51:15 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_155105.executed.ipynb
+2025-09-30 15:51:30 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_155115.executed.ipynb
+2025-09-30 15:51:30 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: The notebook is invalid and is missing an expected key: metadata
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 89, in execute_notebook
+    nb = load_notebook_node(input_path)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/iorw.py", line 499, in load_notebook_node
+    nb = nbformat.reads(papermill_io.read(notebook_path), as_version=4)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/__init__.py", line 92, in reads
+    nb = reader.reads(s, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/reader.py", line 82, in reads
+    raise ValidationError(msg) from None
+jsonschema.exceptions.ValidationError: The notebook is invalid and is missing an expected key: metadata
+2025-09-30 15:51:53 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(519249, 10))
+2025-09-30 15:51:53 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(505435), 1: np.int64(13814)}
+2025-09-30 15:52:06 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 15:52:06 | INFO | baseline | Random split -> train=415399, test=103850
+2025-09-30 15:52:16 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 15:52:16 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 15:52:16 | INFO | pipeline | === PIPELINE FINALIZADO ===
+2025-09-30 18:32:12 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 18:32:19 | ERROR | pipeline | Fallo ejecutando notebooks/Preprocessing2.ipynb: 
+---------------------------------------------------------------------------
+Exception encountered at "In [10]":
+---------------------------------------------------------------------------
+OSError                                   Traceback (most recent call last)
+Cell In[10], line 42
+     39 df_final = pd.DataFrame()
+     41 for fuente, archivo in ARCHIVOS.items():
+---> 42     df_temp = cargar_log_estandar(archivo, fuente)
+     43     df_final = pd.concat([df_final, df_temp], ignore_index=True)
+     45 # Limpieza básica
+
+Cell In[10], line 27, in cargar_log_estandar(nombre_archivo, fuente)
+     24     print(f" Archivo no encontrado: {nombre_archivo}")
+     25     return pd.DataFrame()  # Devuelve DataFrame vacío
+---> 27 df = pd.read_csv(ruta)
+     29 # Asegurar columnas requeridas
+     30 for col in columnas_requeridas:
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py:1026, in read_csv(filepath_or_buffer, sep, delimiter, header, names, index_col, usecols, dtype, engine, converters, true_values, false_values, skipinitialspace, skiprows, skipfooter, nrows, na_values, keep_default_na, na_filter, verbose, skip_blank_lines, parse_dates, infer_datetime_format, keep_date_col, date_parser, date_format, dayfirst, cache_dates, iterator, chunksize, compression, thousands, decimal, lineterminator, quotechar, quoting, doublequote, escapechar, comment, encoding, encoding_errors, dialect, on_bad_lines, delim_whitespace, low_memory, memory_map, float_precision, storage_options, dtype_backend)
+   1013 kwds_defaults = _refine_defaults_read(
+   1014     dialect,
+   1015     delimiter,
+   (...)
+   1022     dtype_backend=dtype_backend,
+   1023 )
+   1024 kwds.update(kwds_defaults)
+-> 1026 return _read(filepath_or_buffer, kwds)
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py:626, in _read(filepath_or_buffer, kwds)
+    623     return parser
+    625 with parser:
+--> 626     return parser.read(nrows)
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py:1923, in TextFileReader.read(self, nrows)
+   1916 nrows = validate_integer("nrows", nrows)
+   1917 try:
+   1918     # error: "ParserBase" has no attribute "read"
+   1919     (
+   1920         index,
+   1921         columns,
+   1922         col_dict,
+-> 1923     ) = self._engine.read(  # type: ignore[attr-defined]
+   1924         nrows
+   1925     )
+   1926 except Exception:
+   1927     self.close()
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/c_parser_wrapper.py:234, in CParserWrapper.read(self, nrows)
+    232 try:
+    233     if self.low_memory:
+--> 234         chunks = self._reader.read_low_memory(nrows)
+    235         # destructive to chunks
+    236         data = _concatenate_chunks(chunks)
+
+File parsers.pyx:838, in pandas._libs.parsers.TextReader.read_low_memory()
+
+File parsers.pyx:905, in pandas._libs.parsers.TextReader._read_rows()
+
+File parsers.pyx:874, in pandas._libs.parsers.TextReader._tokenize_rows()
+
+File parsers.pyx:891, in pandas._libs.parsers.TextReader._check_tokenize_status()
+
+File parsers.pyx:2053, in pandas._libs.parsers.raise_parser_error()
+
+OSError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 131, in execute_notebook
+    raise_for_execution_errors(nb, output_path)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 251, in raise_for_execution_errors
+    raise error
+papermill.exceptions.PapermillExecutionError: 
+---------------------------------------------------------------------------
+Exception encountered at "In [10]":
+---------------------------------------------------------------------------
+OSError                                   Traceback (most recent call last)
+Cell In[10], line 42
+     39 df_final = pd.DataFrame()
+     41 for fuente, archivo in ARCHIVOS.items():
+---> 42     df_temp = cargar_log_estandar(archivo, fuente)
+     43     df_final = pd.concat([df_final, df_temp], ignore_index=True)
+     45 # Limpieza básica
+
+Cell In[10], line 27, in cargar_log_estandar(nombre_archivo, fuente)
+     24     print(f" Archivo no encontrado: {nombre_archivo}")
+     25     return pd.DataFrame()  # Devuelve DataFrame vacío
+---> 27 df = pd.read_csv(ruta)
+     29 # Asegurar columnas requeridas
+     30 for col in columnas_requeridas:
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py:1026, in read_csv(filepath_or_buffer, sep, delimiter, header, names, index_col, usecols, dtype, engine, converters, true_values, false_values, skipinitialspace, skiprows, skipfooter, nrows, na_values, keep_default_na, na_filter, verbose, skip_blank_lines, parse_dates, infer_datetime_format, keep_date_col, date_parser, date_format, dayfirst, cache_dates, iterator, chunksize, compression, thousands, decimal, lineterminator, quotechar, quoting, doublequote, escapechar, comment, encoding, encoding_errors, dialect, on_bad_lines, delim_whitespace, low_memory, memory_map, float_precision, storage_options, dtype_backend)
+   1013 kwds_defaults = _refine_defaults_read(
+   1014     dialect,
+   1015     delimiter,
+   (...)
+   1022     dtype_backend=dtype_backend,
+   1023 )
+   1024 kwds.update(kwds_defaults)
+-> 1026 return _read(filepath_or_buffer, kwds)
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py:626, in _read(filepath_or_buffer, kwds)
+    623     return parser
+    625 with parser:
+--> 626     return parser.read(nrows)
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py:1923, in TextFileReader.read(self, nrows)
+   1916 nrows = validate_integer("nrows", nrows)
+   1917 try:
+   1918     # error: "ParserBase" has no attribute "read"
+   1919     (
+   1920         index,
+   1921         columns,
+   1922         col_dict,
+-> 1923     ) = self._engine.read(  # type: ignore[attr-defined]
+   1924         nrows
+   1925     )
+   1926 except Exception:
+   1927     self.close()
+
+File /opt/anaconda3/lib/python3.13/site-packages/pandas/io/parsers/c_parser_wrapper.py:234, in CParserWrapper.read(self, nrows)
+    232 try:
+    233     if self.low_memory:
+--> 234         chunks = self._reader.read_low_memory(nrows)
+    235         # destructive to chunks
+    236         data = _concatenate_chunks(chunks)
+
+File parsers.pyx:838, in pandas._libs.parsers.TextReader.read_low_memory()
+
+File parsers.pyx:905, in pandas._libs.parsers.TextReader._read_rows()
+
+File parsers.pyx:874, in pandas._libs.parsers.TextReader._tokenize_rows()
+
+File parsers.pyx:891, in pandas._libs.parsers.TextReader._check_tokenize_status()
+
+File parsers.pyx:2053, in pandas._libs.parsers.raise_parser_error()
+
+OSError: [Errno 5] Input/output error
+
+2025-09-30 18:32:34 | INFO | pipeline | Ejecutado: notebooks/prediccion_ataques2.ipynb → notebooks/_executed/prediccion_ataques2.20250930_183219.executed.ipynb
+2025-09-30 18:32:34 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: The notebook is invalid and is missing an expected key: metadata
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 89, in execute_notebook
+    nb = load_notebook_node(input_path)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/iorw.py", line 499, in load_notebook_node
+    nb = nbformat.reads(papermill_io.read(notebook_path), as_version=4)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/__init__.py", line 92, in reads
+    nb = reader.reads(s, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/reader.py", line 82, in reads
+    raise ValidationError(msg) from None
+jsonschema.exceptions.ValidationError: The notebook is invalid and is missing an expected key: metadata
+2025-09-30 18:32:57 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(519249, 10))
+2025-09-30 18:32:57 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(505435), 1: np.int64(13814)}
+2025-09-30 18:33:10 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 18:33:10 | INFO | baseline | Random split -> train=415399, test=103850
+2025-09-30 18:33:20 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 18:33:20 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 18:33:20 | INFO | pipeline | === PIPELINE FINALIZADO ===
+2025-09-30 18:43:58 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 18:44:04 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_184358.executed.ipynb
+2025-09-30 18:44:07 | ERROR | pipeline | Fallo ejecutando notebooks/prediccion_ataques2.ipynb: 
+---------------------------------------------------------------------------
+Exception encountered at "In [3]":
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[3], line 80
+     77     df_encoded = df_encoded[list(encoders.keys())]
+     79     # Hacer predicción
+---> 80     df[f"pred_{clave}"] = modelo.predict(df_encoded)
+     81     resultados[clave] = df[f"pred_{clave}"].value_counts()
+     83 print("Resumen de predicciones:")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:904, in ForestClassifier.predict(self, X)
+    883 def predict(self, X):
+    884     """
+    885     Predict class for X.
+    886 
+   (...)
+    902         The predicted classes.
+    903     """
+--> 904     proba = self.predict_proba(X)
+    906     if self.n_outputs_ == 1:
+    907         return self.classes_.take(np.argmax(proba, axis=1), axis=0)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:946, in ForestClassifier.predict_proba(self, X)
+    944 check_is_fitted(self)
+    945 # Check data
+--> 946 X = self._validate_X_predict(X)
+    948 # Assign chunk of trees to jobs
+    949 n_jobs, _, _ = _partition_estimators(self.n_estimators, self.n_jobs)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:638, in BaseForest._validate_X_predict(self, X)
+    635 else:
+    636     ensure_all_finite = True
+--> 638 X = validate_data(
+    639     self,
+    640     X,
+    641     dtype=DTYPE,
+    642     accept_sparse="csr",
+    643     reset=False,
+    644     ensure_all_finite=ensure_all_finite,
+    645 )
+    646 if issparse(X) and (X.indices.dtype != np.intc or X.indptr.dtype != np.intc):
+    647     raise ValueError("No support for np.int64 index based sparse matrices")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2944, in validate_data(_estimator, X, y, reset, validate_separately, skip_check_array, **check_params)
+   2942         out = X, y
+   2943 elif not no_val_X and no_val_y:
+-> 2944     out = check_array(X, input_name="X", **check_params)
+   2945 elif no_val_X and not no_val_y:
+   2946     out = _check_y(y, **check_params)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:1130, in check_array(array, accept_sparse, accept_large_sparse, dtype, order, copy, force_writeable, force_all_finite, ensure_all_finite, ensure_non_negative, ensure_2d, allow_nd, ensure_min_samples, ensure_min_features, estimator, input_name)
+   1128     n_samples = _num_samples(array)
+   1129     if n_samples < ensure_min_samples:
+-> 1130         raise ValueError(
+   1131             "Found array with %d sample(s) (shape=%s) while a"
+   1132             " minimum of %d is required%s."
+   1133             % (n_samples, array.shape, ensure_min_samples, context)
+   1134         )
+   1136 if ensure_min_features > 0 and array.ndim == 2:
+   1137     n_features = array.shape[1]
+
+ValueError: Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required by RandomForestClassifier.
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 131, in execute_notebook
+    raise_for_execution_errors(nb, output_path)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 251, in raise_for_execution_errors
+    raise error
+papermill.exceptions.PapermillExecutionError: 
+---------------------------------------------------------------------------
+Exception encountered at "In [3]":
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[3], line 80
+     77     df_encoded = df_encoded[list(encoders.keys())]
+     79     # Hacer predicción
+---> 80     df[f"pred_{clave}"] = modelo.predict(df_encoded)
+     81     resultados[clave] = df[f"pred_{clave}"].value_counts()
+     83 print("Resumen de predicciones:")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:904, in ForestClassifier.predict(self, X)
+    883 def predict(self, X):
+    884     """
+    885     Predict class for X.
+    886 
+   (...)
+    902         The predicted classes.
+    903     """
+--> 904     proba = self.predict_proba(X)
+    906     if self.n_outputs_ == 1:
+    907         return self.classes_.take(np.argmax(proba, axis=1), axis=0)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:946, in ForestClassifier.predict_proba(self, X)
+    944 check_is_fitted(self)
+    945 # Check data
+--> 946 X = self._validate_X_predict(X)
+    948 # Assign chunk of trees to jobs
+    949 n_jobs, _, _ = _partition_estimators(self.n_estimators, self.n_jobs)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:638, in BaseForest._validate_X_predict(self, X)
+    635 else:
+    636     ensure_all_finite = True
+--> 638 X = validate_data(
+    639     self,
+    640     X,
+    641     dtype=DTYPE,
+    642     accept_sparse="csr",
+    643     reset=False,
+    644     ensure_all_finite=ensure_all_finite,
+    645 )
+    646 if issparse(X) and (X.indices.dtype != np.intc or X.indptr.dtype != np.intc):
+    647     raise ValueError("No support for np.int64 index based sparse matrices")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2944, in validate_data(_estimator, X, y, reset, validate_separately, skip_check_array, **check_params)
+   2942         out = X, y
+   2943 elif not no_val_X and no_val_y:
+-> 2944     out = check_array(X, input_name="X", **check_params)
+   2945 elif no_val_X and not no_val_y:
+   2946     out = _check_y(y, **check_params)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:1130, in check_array(array, accept_sparse, accept_large_sparse, dtype, order, copy, force_writeable, force_all_finite, ensure_all_finite, ensure_non_negative, ensure_2d, allow_nd, ensure_min_samples, ensure_min_features, estimator, input_name)
+   1128     n_samples = _num_samples(array)
+   1129     if n_samples < ensure_min_samples:
+-> 1130         raise ValueError(
+   1131             "Found array with %d sample(s) (shape=%s) while a"
+   1132             " minimum of %d is required%s."
+   1133             % (n_samples, array.shape, ensure_min_samples, context)
+   1134         )
+   1136 if ensure_min_features > 0 and array.ndim == 2:
+   1137     n_features = array.shape[1]
+
+ValueError: Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required by RandomForestClassifier.
+
+2025-09-30 18:44:07 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: The notebook is invalid and is missing an expected key: metadata
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 89, in execute_notebook
+    nb = load_notebook_node(input_path)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/iorw.py", line 499, in load_notebook_node
+    nb = nbformat.reads(papermill_io.read(notebook_path), as_version=4)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/__init__.py", line 92, in reads
+    nb = reader.reads(s, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/reader.py", line 82, in reads
+    raise ValidationError(msg) from None
+jsonschema.exceptions.ValidationError: The notebook is invalid and is missing an expected key: metadata
+2025-09-30 18:44:07 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(0, 10))
+2025-09-30 18:50:27 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 18:50:33 | INFO | pipeline | Ejecutado: notebooks/Preprocessing2.ipynb → notebooks/_executed/Preprocessing2.20250930_185027.executed.ipynb
+2025-09-30 18:50:36 | ERROR | pipeline | Fallo ejecutando notebooks/prediccion_ataques2.ipynb: 
+---------------------------------------------------------------------------
+Exception encountered at "In [3]":
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[3], line 80
+     77     df_encoded = df_encoded[list(encoders.keys())]
+     79     # Hacer predicción
+---> 80     df[f"pred_{clave}"] = modelo.predict(df_encoded)
+     81     resultados[clave] = df[f"pred_{clave}"].value_counts()
+     83 print("Resumen de predicciones:")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:904, in ForestClassifier.predict(self, X)
+    883 def predict(self, X):
+    884     """
+    885     Predict class for X.
+    886 
+   (...)
+    902         The predicted classes.
+    903     """
+--> 904     proba = self.predict_proba(X)
+    906     if self.n_outputs_ == 1:
+    907         return self.classes_.take(np.argmax(proba, axis=1), axis=0)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:946, in ForestClassifier.predict_proba(self, X)
+    944 check_is_fitted(self)
+    945 # Check data
+--> 946 X = self._validate_X_predict(X)
+    948 # Assign chunk of trees to jobs
+    949 n_jobs, _, _ = _partition_estimators(self.n_estimators, self.n_jobs)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:638, in BaseForest._validate_X_predict(self, X)
+    635 else:
+    636     ensure_all_finite = True
+--> 638 X = validate_data(
+    639     self,
+    640     X,
+    641     dtype=DTYPE,
+    642     accept_sparse="csr",
+    643     reset=False,
+    644     ensure_all_finite=ensure_all_finite,
+    645 )
+    646 if issparse(X) and (X.indices.dtype != np.intc or X.indptr.dtype != np.intc):
+    647     raise ValueError("No support for np.int64 index based sparse matrices")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2944, in validate_data(_estimator, X, y, reset, validate_separately, skip_check_array, **check_params)
+   2942         out = X, y
+   2943 elif not no_val_X and no_val_y:
+-> 2944     out = check_array(X, input_name="X", **check_params)
+   2945 elif no_val_X and not no_val_y:
+   2946     out = _check_y(y, **check_params)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:1130, in check_array(array, accept_sparse, accept_large_sparse, dtype, order, copy, force_writeable, force_all_finite, ensure_all_finite, ensure_non_negative, ensure_2d, allow_nd, ensure_min_samples, ensure_min_features, estimator, input_name)
+   1128     n_samples = _num_samples(array)
+   1129     if n_samples < ensure_min_samples:
+-> 1130         raise ValueError(
+   1131             "Found array with %d sample(s) (shape=%s) while a"
+   1132             " minimum of %d is required%s."
+   1133             % (n_samples, array.shape, ensure_min_samples, context)
+   1134         )
+   1136 if ensure_min_features > 0 and array.ndim == 2:
+   1137     n_features = array.shape[1]
+
+ValueError: Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required by RandomForestClassifier.
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 131, in execute_notebook
+    raise_for_execution_errors(nb, output_path)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 251, in raise_for_execution_errors
+    raise error
+papermill.exceptions.PapermillExecutionError: 
+---------------------------------------------------------------------------
+Exception encountered at "In [3]":
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[3], line 80
+     77     df_encoded = df_encoded[list(encoders.keys())]
+     79     # Hacer predicción
+---> 80     df[f"pred_{clave}"] = modelo.predict(df_encoded)
+     81     resultados[clave] = df[f"pred_{clave}"].value_counts()
+     83 print("Resumen de predicciones:")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:904, in ForestClassifier.predict(self, X)
+    883 def predict(self, X):
+    884     """
+    885     Predict class for X.
+    886 
+   (...)
+    902         The predicted classes.
+    903     """
+--> 904     proba = self.predict_proba(X)
+    906     if self.n_outputs_ == 1:
+    907         return self.classes_.take(np.argmax(proba, axis=1), axis=0)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:946, in ForestClassifier.predict_proba(self, X)
+    944 check_is_fitted(self)
+    945 # Check data
+--> 946 X = self._validate_X_predict(X)
+    948 # Assign chunk of trees to jobs
+    949 n_jobs, _, _ = _partition_estimators(self.n_estimators, self.n_jobs)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/ensemble/_forest.py:638, in BaseForest._validate_X_predict(self, X)
+    635 else:
+    636     ensure_all_finite = True
+--> 638 X = validate_data(
+    639     self,
+    640     X,
+    641     dtype=DTYPE,
+    642     accept_sparse="csr",
+    643     reset=False,
+    644     ensure_all_finite=ensure_all_finite,
+    645 )
+    646 if issparse(X) and (X.indices.dtype != np.intc or X.indptr.dtype != np.intc):
+    647     raise ValueError("No support for np.int64 index based sparse matrices")
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2944, in validate_data(_estimator, X, y, reset, validate_separately, skip_check_array, **check_params)
+   2942         out = X, y
+   2943 elif not no_val_X and no_val_y:
+-> 2944     out = check_array(X, input_name="X", **check_params)
+   2945 elif no_val_X and not no_val_y:
+   2946     out = _check_y(y, **check_params)
+
+File /opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:1130, in check_array(array, accept_sparse, accept_large_sparse, dtype, order, copy, force_writeable, force_all_finite, ensure_all_finite, ensure_non_negative, ensure_2d, allow_nd, ensure_min_samples, ensure_min_features, estimator, input_name)
+   1128     n_samples = _num_samples(array)
+   1129     if n_samples < ensure_min_samples:
+-> 1130         raise ValueError(
+   1131             "Found array with %d sample(s) (shape=%s) while a"
+   1132             " minimum of %d is required%s."
+   1133             % (n_samples, array.shape, ensure_min_samples, context)
+   1134         )
+   1136 if ensure_min_features > 0 and array.ndim == 2:
+   1137     n_features = array.shape[1]
+
+ValueError: Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required by RandomForestClassifier.
+
+2025-09-30 18:50:36 | ERROR | pipeline | Fallo ejecutando notebooks/01_EDA.ipynb: The notebook is invalid and is missing an expected key: metadata
+Traceback (most recent call last):
+  File "/Users/alonso/Downloads/Tesis_SIEM_ML/src/run_pipeline.py", line 45, in run_notebook
+    pm.execute_notebook(
+    ~~~~~~~~~~~~~~~~~~~^
+        str(infile),
+        ^^^^^^^^^^^^
+    ...<3 lines>...
+        kernel_name="python3"  # <--- fuerza kernel
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/execute.py", line 89, in execute_notebook
+    nb = load_notebook_node(input_path)
+  File "/opt/anaconda3/lib/python3.13/site-packages/papermill/iorw.py", line 499, in load_notebook_node
+    nb = nbformat.reads(papermill_io.read(notebook_path), as_version=4)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/__init__.py", line 92, in reads
+    nb = reader.reads(s, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/nbformat/reader.py", line 82, in reads
+    raise ValidationError(msg) from None
+jsonschema.exceptions.ValidationError: The notebook is invalid and is missing an expected key: metadata
+2025-09-30 18:50:36 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(0, 10))
+2025-09-30 18:56:37 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 18:57:00 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(519249, 10))
+2025-09-30 18:57:01 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(505435), 1: np.int64(13814)}
+2025-09-30 18:57:13 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 18:57:14 | INFO | baseline | Random split -> train=415399, test=103850
+2025-09-30 18:57:23 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 18:57:23 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 18:57:23 | INFO | pipeline | === PIPELINE FINALIZADO ===
+2025-09-30 18:57:26 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 18:57:49 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(519249, 10))
+2025-09-30 18:57:50 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(505435), 1: np.int64(13814)}
+2025-09-30 18:58:03 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 18:58:03 | INFO | baseline | Random split -> train=415399, test=103850
+2025-09-30 18:58:12 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 18:58:13 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 18:58:13 | INFO | pipeline | === PIPELINE FINALIZADO ===
+2025-09-30 18:59:45 | INFO | pipeline | === PIPELINE (notebooks + baseline) INICIADO ===
+2025-09-30 19:00:08 | INFO | pipeline | Dataset limpio generado: data/processed/dataset_clean.csv (shape=(519249, 10))
+2025-09-30 19:00:08 | INFO | baseline | Distribución de y tras binarizar (credential-manager-credentials-were-read=1): {0: np.int64(505435), 1: np.int64(13814)}
+2025-09-30 19:00:21 | WARNING | baseline | No se pudo parsear timestamp como datetime. Usando split aleatorio.
+2025-09-30 19:00:21 | INFO | baseline | Random split -> train=415399, test=103850
+2025-09-30 19:00:31 | INFO | baseline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 19:00:31 | INFO | pipeline | Métricas baseline: {'roc_auc': 0.9779162590946223, 'f1': 0.5264076822348319, 'accuracy': 0.9582089552238806, 'n_train': 415399, 'n_test': 103850, 'target': 'action', 'positive_label': 'credential-manager-credentials-were-read', 'use_temporal': True}
+2025-09-30 19:00:31 | INFO | pipeline | === PIPELINE FINALIZADO ===
