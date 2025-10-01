@@ -73,7 +73,7 @@ Proyecto de investigación (Maestría en IA – UNI) para desarrollar un modelo 
 
 ## Documentación del dataset
 
-- Toda la información sobre la procedencia, variables y control de integridad de los datos debe registrarse en `docs/DATASET.md`.  
+- Toda la información sobre la procedencia, variables y control de integridad de los datos debe registrarse en `data/DATASET.md`.  
 - Para calcular el hash del directorio `data/raw/` ejecutar:
   ```bash
   make hash
